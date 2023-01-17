@@ -1,5 +1,5 @@
-{
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+{ 
+	"ip" : " terra10.aternos.me " , 
+	"porta" : " terra10.aternos.me:14902 " , 
+	"nome" : " JoeKing "
 }
